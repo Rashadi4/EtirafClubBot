@@ -10,55 +10,55 @@
       ],   
    "repository": "https://github.com/aykhan026/EtirafBot-RoBotlarimTg",
    "env": {
-      "TOKEN": {
+      "TOKEN": {5209659323:AAE5bC_ucb97njQfhDooi8SWf805BGp-FU4
          "description": "Botunuzun tokenini bura yazın",
          "value": ""
       },
-      "APP_ID": {
+      "APP_ID": {14884817
          "description": "my.telegram.org adresindən APP ID alın.",
          "value": ""
       },
-      "API_HASH": {
+      "API_HASH": {f0bc9519bd536c4c7b49c9d32a3ddc17
          "description": "my.telegram.org adresindən API HASH alın",
          "value": ""
       },    
-      "ADMIN_QRUP": {
+      "ADMIN_QRUP": {-1001690822127
          "description": "Etirafları təsdiqləməy üçün bir qrup yaradın. yaratdığınız botu həmin qrupa atıb admin edib qrup idini bura yazın",
          "value": "-717273671"
       },      
-      "ETIRAF_QRUP": {
+      "ETIRAF_QRUP": {-1001690822127
          "description": "Təsdiqlədiyiniz etiraf paylaşılacaq kanal/qrup idini yazın",
          "value": "-1727079853"
       },
-      "LOG_QRUP": {
+      "LOG_QRUP": {-1001590833722
          "description": "Bu qrupa botunuz giriş çıxış bilgiləri və xüsusi gizli məlumatlar göndərəcəy bu qrupda yalnız özünüz olun",
          "value": "-6271773727"
       },
-      "kanal": {
+      "kanal": {asdetiraf
          "description": "Etiraflar paylaşılacaq kanal/qrup linkini bura yazın @ işarəsi olmadan",
          "value": "EtirafClub"
       },
-      "BOT_AD": {
+      "BOT_AD": {@asdetirafbot
          "description": "Botun usernamesini bura yazın @ işarəsi ilə",
          "value": "@EtirafClubBot"
       },
-      "sahib": {
+      "sahib": {mondlichtm
          "description": "Bura öz usernamenizi yazın @ işarəsi olmadan",
          "value": "aykhan_s"
       },      
-      "support": {
+      "support": {asdetirafsupport
          "description": "Bura support qrupunuz/kanalınız varsa @ işarəsi olmadan yazın yoxdusa olduğu kimi buraxın",
          "value": "RoBotlarimTg"
       },
-      "startmesaj": {
+      "startmesaj": {**Salam Xoş Gəldiniz Heçkimə demədiyin  etirafları mənə deyə bilərsən 😛
          "description": "Bota start verilən zaman yazılan mesaj",
          "value": "**Salam, Xoş Gəldin** __Heçkimə demədiyin etirafları mənə deyə bilərsən__ 🤭"
       },
-      "qrupstart": {
+      "qrupstart": {✅ **Mən Aktivəm !** 💌 **Etiraf yazmaq üçün şəxsidən yazın**"
          "description": "Bot əgər hansısa qrupa qatılıbsa start verilərsə qrupda yazdığı mesaj",
          "value": "✅ **Mən Aktivəm !** 💌 **Etiraf yazmaq üçün şəxsidən yazın**"
       },
-      "etirafmsg": {
+      "etirafmsg": {**Etirafını necə paylaşım ?** 🤔
          "description": "Etiraf edilən zaman botun verdiyi sual",
          "value": "**Etirafını necə paylaşım ?** 🤔"
       }, 
@@ -66,7 +66,7 @@
          "description": "Etiraf etməy istəyən istifadəçiyə yazılan mesaj",
          "value": "**Buyur bir etiraf yaz Daha sonra mən onun açıq və ya anonim olacağını soruşacam** 😍"
       },
-      "gonderildi": {
+      "gonderildi": { "✅ **Etirafınız göndərildi Adminlər tərəfindən təsdiq olunduqdan sonra @asdetiraf kanalında paylaşılacaq**"
          "description": "Etiraf edəndən sonra yazılan mesaj (öz kanalınızı yazın)",
          "value": "✅ **Etirafınız göndərildi Adminlər tərəfindən təsdiq olunduqdan sonra @EtirafClub kanalında paylaşılacaq**"
       }
